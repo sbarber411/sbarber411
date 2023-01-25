@@ -1,5 +1,6 @@
-## Hey, I am Sophia Barber. 👋🏽
-### LinkedIn
+## Hey, I am Sophia Barber. 👋🏽  
+<a href="https://www.linkedin.com/in/sophia-barber-mha-1089786b/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="60" height="60"/></a>
+
 ### About Me:
 - 👩🏽‍💻 I am a Software Engineer with a Masters Degree in Healthcare Administration. 
 - 🌱 I am currently living in New Jersey. 
