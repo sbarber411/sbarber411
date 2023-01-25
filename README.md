@@ -1,6 +1,5 @@
 ## Hey, I am Sophia Barber. 👋🏽  
 <a href="https://www.linkedin.com/in/sophia-barber-mha-1089786b/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80"/></a>
-
 ### About Me:
 <br> 👩🏽‍💻 I am a Software Engineer with a Masters Degree in Healthcare Administration. 
 <br> 🌱 I am currently living in New Jersey. 
@@ -8,8 +7,6 @@
 <br> 🤔 I am looking for help with landing a position as a Software Engineer to begin my tech career. 
 <br> 💗 I am passionate about bridging the technology and educational gaps in Healthcare and Education. 
 <br> 🏝 Fun fact: I love to travel!
-
-
 ### Languages & Tools:
 <p align="left"> 
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://camo.githubusercontent.com/dcc25b43e2aa90de55261e1342e74eb5461b3fd17cf0ff2050302eb52e7d5aa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d706c6173746963266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" width="60" height="20"/></a>
