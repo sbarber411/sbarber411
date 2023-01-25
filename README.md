@@ -2,12 +2,12 @@
 <a href="https://www.linkedin.com/in/sophia-barber-mha-1089786b/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80"/></a>
 
 ### About Me:
-- 👩🏽‍💻 I am a Software Engineer with a Masters Degree in Healthcare Administration. 
-- 🌱 I am currently living in New Jersey. 
-- 💻 I am interested in solving challenging problems and building things that help connect people.
-- 🤔 I am looking for help with landing a position as a Software Engineer to begin my tech career. 
-- 💗 I am passionate about bridging the technology and educational gaps in Healthcare and Education. 
-- 🏝 Fun fact: I love to travel!
+<br> 👩🏽‍💻 I am a Software Engineer with a Masters Degree in Healthcare Administration. 
+<br> 🌱 I am currently living in New Jersey. 
+<br> 💻 I am interested in solving challenging problems and building things that help connect people.
+<br> 🤔 I am looking for help with landing a position as a Software Engineer to begin my tech career. 
+<br> 💗 I am passionate about bridging the technology and educational gaps in Healthcare and Education. 
+<br> 🏝 Fun fact: I love to travel!
 
 
 ### Languages & Tools:
