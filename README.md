@@ -4,7 +4,7 @@
 <br> 👩🏽‍💻 I am a Software Engineer with a Masters Degree in Healthcare Administration. 
 <br> 🌱 I am currently living in New Jersey. 
 <br> 💻 I am interested in solving challenging problems and building things that help connect people.
-<br> 🤔 I am looking for help with landing a position as a Software Engineer to begin my tech career. 
+<br> 🤔 I am looking for help with landing a position as a Software Engineer to ignite my career in tech.  
 <br> 💗 I am passionate about bridging the technology and educational gaps in Healthcare and Education. 
 <br> 🏝 Fun fact: I love to travel!
 ### Languages & Tools:
